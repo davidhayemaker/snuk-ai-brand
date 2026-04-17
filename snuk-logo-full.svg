@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 280" width="820" height="280">
+<!-- SNUK AI — FULL LOGO v1 (locked 17-04-2026) -->
+<!-- Background -->
+<rect width="820" height="280" fill="#000000"/>
+<!-- Pod pill - spans full text-block height -->
+<rect x="40" y="79" width="99" height="154" rx="49" ry="49" fill="#3ec9c0"/>
+<!-- Dark circle highlight -->
+<circle cx="89" cy="118" r="26" fill="#1a1a2e"/>
+<!-- SNUK.AI -->
+<text x="165" y="185" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="132" fill="#ffffff" textLength="595" lengthAdjust="spacingAndGlyphs">SNUK.AI</text>
+<!-- Teal separator line -->
+<line x1="165" y1="200" x2="760" y2="200" stroke="#3ec9c0" stroke-width="1"/>
+<!-- Tagline -->
+<text x="165" y="233" font-family="Arial, sans-serif" font-weight="400" font-size="22" fill="#3ec9c0" textLength="595" lengthAdjust="spacingAndGlyphs">COMBUSTION REDUCTION PROGRAMME</text>
+</svg>

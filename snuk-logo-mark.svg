@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 280" width="820" height="280">
+<!-- SNUK AI — MARK v1 (no tagline, SNUK.AI extended to fill full logo height) -->
+<!-- Background -->
+<rect width="820" height="280" fill="#000000"/>
+<!-- Pod pill - same dimensions as full logo -->
+<rect x="40" y="79" width="99" height="154" rx="49" ry="49" fill="#3ec9c0"/>
+<!-- Dark circle highlight -->
+<circle cx="89" cy="118" r="26" fill="#1a1a2e"/>
+<!-- SNUK.AI - enlarged to fill from top of pod to bottom of pod, same horizontal span as full logo -->
+<text x="165" y="230" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="210" fill="#ffffff" textLength="595" lengthAdjust="spacingAndGlyphs">SNUK.AI</text>
+</svg>
